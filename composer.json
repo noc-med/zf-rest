@@ -1,5 +1,5 @@
 {
-    "name": "zfcampus/zf-rest",
+    "name": "noc-med/zf-rest",
     "description": "ZF2 Module providing structure for RESTful resources",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -33,7 +33,7 @@
         "zendframework/zend-mvc": "~2.3",
         "zendframework/zend-paginator": "~2.3",
         "zendframework/zend-stdlib": "~2.3",
-        "zfcampus/zf-api-problem": "~1.0",
+        "noc-med/zf-api-problem": "~1.0",
         "zfcampus/zf-content-negotiation": "~1.0",
         "zfcampus/zf-hal": ">=1.0.2,<2.0.0",
         "zfcampus/zf-mvc-auth": "~1.0",
