@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/zf-rest",
+    "name": "nocvp/zf-rest",
     "description": "ZF2 Module providing structure for RESTful resources",
     "type": "library",
     "license": "BSD-3-Clause",
